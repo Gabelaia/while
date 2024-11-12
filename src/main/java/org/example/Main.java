@@ -9,5 +9,6 @@ public class Main {
             System.out.println(array[i]);
             i++;
         }
+        System.out.println("I Love Testing");
     }
 }
